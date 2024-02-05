@@ -39,7 +39,7 @@ Watch the video on YouTube for instructions:
     - [ ] [Pandas Tutorial - Playlist on Youtube (Corey Schafer)](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
 ### 1. Basics Machine Learning
-- [ *] [Coursera Free Course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [*] [Coursera Free Course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [ ] [Machine Learning Stanford Full Course on YouTube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [ ] [Udacity - Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Machine Learning From Scratch - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
